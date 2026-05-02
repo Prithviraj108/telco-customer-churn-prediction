@@ -19,15 +19,15 @@ Customer churn is a major challenge for telecom companies. Losing a customer cos
 
 🔧 Tech Stack
 
-- Tool            ->                Purpose
-
-- Python          ->           Core programming language            
-- Pandas          ->           Data manipulation
-- NumPy           ->           Numerical operations
-- Matplotlib & Seaborn   ->    Data visualisation
-- Scikit-learn    ->           ML models and evaluation
-- Google Colab    ->           Cloud-based notebook environment
-- KaggleHub       ->           Dataset download
+| Tool | Purpose |
+|---|---|
+| Python | Core programming language |            
+| Pandas | Data manipulation |
+| NumPy | Numerical operations |
+| Matplotlib & Seaborn | Data visualisation |
+| Scikit-learn | ML models and evaluation |
+| Google Colab | Cloud-based notebook environment |
+| KaggleHub | Dataset download |
 
 📊 Project Workflow
 
