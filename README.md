@@ -47,12 +47,15 @@ KaggleHub                  Dataset download
 Logistic Regression
 
 Baseline binary classification model
+
 Simple, interpretable, great starting point
 
 Random Forest
 
 Ensemble of decision trees
+
 Higher accuracy, captures complex patterns
+
 Provides feature importance scores
 
 
