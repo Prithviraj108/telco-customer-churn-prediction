@@ -74,13 +74,11 @@ Note: Accuracy alone can be misleading on imbalanced datasets. F1 Score and Reca
 
 🗂️ Project Structure
 
-telco-customer-churn-prediction/
+- telco-customer-churn-prediction/
 
-│
+- telco_churn_clean.py   ->  # Full cleaned Python script
 
-├── telco_churn_clean.py     # Full cleaned Python script
-
-├── README.md                # Project documentation
+- README.md       ->         # Project documentation
 
 🚀 How to Run
 
