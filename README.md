@@ -11,13 +11,10 @@ Customer churn is a major challenge for telecom companies. Losing a customer cos
 
 📁 Dataset
 
-Source: Telco Customer Churn – Kaggle
-
-Size: ~7,000 customers
-
-Target Column: Churn Label (Yes / No)
-
-Features include: Contract type, Monthly Charges, Tenure, Internet Type, Offer, and more.
+- Source: Telco Customer Churn – Kaggle
+- Size: ~7,000 customers
+- Target Column: Churn Label (Yes / No)
+- Features include: Contract type, Monthly Charges, Tenure, Internet Type, Offer, and more.
 
 
 🔧 Tech Stack
@@ -49,17 +46,14 @@ KaggleHub                  Dataset download
 
 Logistic Regression
 
-Baseline binary classification model
-
-Simple, interpretable, great starting point
+- Baseline binary classification model
+- Simple, interpretable, great starting point
 
 Random Forest
 
-Ensemble of decision trees
-
-Higher accuracy, captures complex patterns
-
-Provides feature importance scores
+- Ensemble of decision trees
+- Higher accuracy, captures complex patterns
+- Provides feature importance scores
 
 
 📈 Results
@@ -73,9 +67,9 @@ Note: Accuracy alone can be misleading on imbalanced datasets. F1 Score and Reca
 
 📌 Key Insights from EDA
 
-Customers on Month-to-Month contracts churn significantly more than yearly subscribers
-Customers with higher monthly charges are more likely to churn
-Tenure (how long a customer has been with the company) is one of the strongest predictors — newer customers churn more
+- Customers on Month-to-Month contracts churn significantly more than yearly subscribers
+- Customers with higher monthly charges are more likely to churn
+- Tenure (how long a customer has been with the company) is one of the strongest predictors — newer customers churn more
 
 
 🗂️ Project Structure
@@ -90,13 +84,10 @@ telco-customer-churn-prediction/
 
 🚀 How to Run
 
-Open Google Colab
-
-Upload telco_churn_clean.py or paste it into a new notebook
-
-Run all cells top to bottom
-
-The dataset is downloaded automatically via kagglehub
+- Open Google Colab
+- Upload telco_churn_clean.py or paste it into a new notebook
+- Run all cells top to bottom
+- The dataset is downloaded automatically via kagglehub
 
 
 Make sure you have a Kaggle account and your API key configured for kagglehub to work.
@@ -104,11 +95,11 @@ Make sure you have a Kaggle account and your API key configured for kagglehub to
 
 🎓 What I Learned
 
-Full ML pipeline from raw data to model evaluation
-Handling missing values, encoding categorical variables
-Difference between Logistic Regression and Random Forest
-Evaluating models using Confusion Matrix, Precision, Recall, and F1 Score
-Importance of EDA before modelling
+- Full ML pipeline from raw data to model evaluation
+- Handling missing values, encoding categorical variables
+- Difference between Logistic Regression and Random Forest
+- Evaluating models using Confusion Matrix, Precision, Recall, and F1 Score
+- Importance of EDA before modelling
 
 
 🙋 About
