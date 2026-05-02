@@ -12,8 +12,11 @@ Customer churn is a major challenge for telecom companies. Losing a customer cos
 📁 Dataset
 
 Source: Telco Customer Churn – Kaggle
+
 Size: ~7,000 customers
+
 Target Column: Churn Label (Yes / No)
+
 Features include: Contract type, Monthly Charges, Tenure, Internet Type, Offer, and more.
 
 
@@ -78,15 +81,21 @@ Tenure (how long a customer has been with the company) is one of the strongest p
 🗂️ Project Structure
 
 telco-customer-churn-prediction/
+
 │
+
 ├── telco_churn_clean.py     # Full cleaned Python script
+
 ├── README.md                # Project documentation
 
 🚀 How to Run
 
 Open Google Colab
+
 Upload telco_churn_clean.py or paste it into a new notebook
+
 Run all cells top to bottom
+
 The dataset is downloaded automatically via kagglehub
 
 
